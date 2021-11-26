@@ -7,7 +7,7 @@ Check pom.xml for spring boot dependencies.
 
 Features:
 
--Sign up and log in with jwt <br>
+-Sign up and log in with jwt + refresh token <br>
 -Sort/filter <br>
 -Form validation <br>
 -Create/update/delete + error/success messages <br>
